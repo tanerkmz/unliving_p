@@ -5,4 +5,7 @@ The digital signal which is transmitted by PIR sensors is perceived via GPIO and
 All descriptions include in code.
 Saceam Video is AtmosferFx
 In my opinion, it can be utilized at Halloween and people can take the adventage of it at Halloween parties.
+
+Notice : The videos in the media files licensed AtmosFx Company (https://atmosfx.com) and wouldn’t be licensed for general distribution.
+
 https://www.youtube.com/watch?v=PVES9xi03Qs
